@@ -1,0 +1,6 @@
+c:\users\tony\documents\visual studio 2015\Projects\PipelineSimulator\PipelineSimulator\bin\Release\PipelineSimulator.exe.config
+c:\users\tony\documents\visual studio 2015\Projects\PipelineSimulator\PipelineSimulator\bin\Release\PipelineSimulator.exe
+c:\users\tony\documents\visual studio 2015\Projects\PipelineSimulator\PipelineSimulator\bin\Release\PipelineSimulator.pdb
+c:\users\tony\documents\visual studio 2015\Projects\PipelineSimulator\PipelineSimulator\obj\Release\PipelineSimulator.csprojResolveAssemblyReference.cache
+c:\users\tony\documents\visual studio 2015\Projects\PipelineSimulator\PipelineSimulator\obj\Release\PipelineSimulator.exe
+c:\users\tony\documents\visual studio 2015\Projects\PipelineSimulator\PipelineSimulator\obj\Release\PipelineSimulator.pdb
